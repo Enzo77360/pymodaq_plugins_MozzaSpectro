@@ -3,7 +3,7 @@
 [plugin-info]
 SHORT_PLUGIN_NAME = 'MozzaSpectro'  #to be modified, for instance daqmx then rename the module name:
 # (pymodaq_plugins_MozzaSpectro become pymodaq_plugins_daqmx for instance)
-version = "1.2.3"
+
 package-url = 'https://github.com/PyMoDAQ/pymodaq_plugins_template' #to modify
 description = 'some word about your plugin'
 
