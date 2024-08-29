@@ -20,7 +20,7 @@ pymodaq_plugins_MozzaSpectro
 
 
 
-
+https://pypi.org/project/pymodaq-plugins-MozzaSpectro/
 
 
 Authors
