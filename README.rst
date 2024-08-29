@@ -15,8 +15,6 @@ pymodaq_plugins_MozzaSpectro
    :target: https://github.com/PyMoDAQ/pymodaq_plugins_template
    :alt: Publication Status
 
-.. image:: https://github.com/PyMoDAQ/pymodaq_plugins_template/actions/workflows/Test.yml/badge.svg
-    :target: https://github.com/PyMoDAQ/pymodaq_plugins_template/actions/workflows/Test.yml
 
 
 
