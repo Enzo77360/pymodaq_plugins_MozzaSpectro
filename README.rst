@@ -3,7 +3,7 @@ pymodaq_plugins_MozzaSpectro
 
 
 
-.. image:: https://img.shields.io/pypi/v/pymodaq_plugins_template.svg
+.. 
    :target: https://pypi.org/project/pymodaq-plugins-KDC101/
    :alt: Latest Version
 
