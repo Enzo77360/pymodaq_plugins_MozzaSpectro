@@ -1,10 +1,10 @@
-pymodaq_plugins_template
+pymodaq_plugins_MozzaSpectro
 ########################
 
 
 
 .. image:: https://img.shields.io/pypi/v/pymodaq_plugins_template.svg
-   :target: https://pypi.org/project/pymodaq_plugins_template/
+   :target: https://pypi.org/project/pymodaq-plugins-KDC101/
    :alt: Latest Version
 
 .. image:: https://readthedocs.org/projects/pymodaq/badge/?version=latest
